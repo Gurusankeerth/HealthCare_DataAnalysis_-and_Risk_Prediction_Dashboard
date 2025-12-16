@@ -12,9 +12,9 @@ through visualizations to support data-driven decision-making.
 
 ## Exploratory Data Analysis (EDA)
 ### Correlation Heatmap
-(images/diabetic_heatmap.png)
-(images/heart_heatmap.png)
-(images/parkinson_heatmap.png)
+![Correlation Heatmap](images/diabetic_heatmap.png)
+![Correlation Heatmap](images/heart_heatmap.png)
+![Correlation Heatmap](images/parkinson_heatmap.png)
 
 
 **Insight:**  
