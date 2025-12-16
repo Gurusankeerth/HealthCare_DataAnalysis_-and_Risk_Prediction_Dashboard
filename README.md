@@ -12,14 +12,16 @@ through visualizations to support data-driven decision-making.
 
 ## Exploratory Data Analysis (EDA)
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+(images/diabetic_heatmap.png)
+(images/heart_heatmap.png)
+(images/parkinson_heatmap.png)
+
 
 **Insight:**  
 The heatmap highlights relationships between various features and the target variable, helping identify 
 important risk indicators.
 
-### Target Variable Distribution
-![Target Distribution](images/target_distribution.png)
+
 
 ## Modeling Approach
 - Algorithm Used: Support Vector Machine (SVM)
