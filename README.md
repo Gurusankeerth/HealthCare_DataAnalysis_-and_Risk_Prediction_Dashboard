@@ -14,7 +14,6 @@ through visualizations to support data-driven decision-making.
 ### Correlation Heatmap
 ![Correlation Heatmap](diabetic_heatmap.png)
 ![Correlation Heatmap](heart_heatmap.png)
-![Correlation Heatmap](parkinson_heatmap.png)
 
 
 **Insight:**  
